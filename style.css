@@ -11,7 +11,7 @@ body{
     -moz-border-radius: 30px;
     -ms-border-radius: 30px;
     -o-border-radius: 30px;
-    background-color: rgb(49, 216, 49);
+    background-color: rgb(45, 87, 45);
     color: white;
     border: none;
 }
@@ -19,7 +19,7 @@ body{
     width: 90%;
 }
 .padding-extra{
-    margin-top: 40px;
+    padding: 100px 0px;
 }
 .cat-img{
     width: 50px;
@@ -83,6 +83,6 @@ h5{
     padding: 50px;
 }
 .bg-green{
-    background-color: rgb(204, 255, 128);
-    padding: 100px 0px;
+    background-color: rgb(232, 255, 197);
+
 }
