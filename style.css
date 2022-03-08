@@ -1,0 +1,59 @@
+.logo-size{
+    width: 150px;
+}
+.green-button{
+    padding: 5px 20px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    background-color: rgb(49, 216, 49);
+    color: white;
+    border: none;
+}
+.illustration-size{
+    width: 90%;
+}
+.padding-extra{
+    padding: 40px;
+}
+.cat-img{
+    width: 50px;
+}
+.box{
+    height: 200px;
+    background-color: aquamarine;
+    margin: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.box-with-shadow{
+    height: 200px;
+    margin: 10px;
+    box-shadow: 3px 7px 20px lightgray;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.card-with-shadow{
+    height: 500px;
+    margin: 10px;
+    box-shadow: 3px 7px 20px lightgrey;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.icon{
+    width: 35px;
+}
+.img-sizing{
+    width: 90%;
+}
