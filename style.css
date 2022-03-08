@@ -1,3 +1,6 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .logo-size{
     width: 150px;
 }
@@ -16,7 +19,7 @@
     width: 90%;
 }
 .padding-extra{
-    padding: 40px;
+    margin-top: 40px;
 }
 .cat-img{
     width: 50px;
@@ -52,8 +55,30 @@
     -o-border-radius: 10px;
 }
 .icon{
-    width: 35px;
+    width: 30px;
+    height: 100%;
 }
 .img-sizing{
     width: 90%;
+}
+h1{
+    font-weight: 800;
+}
+.test-box{
+    width: 700px;
+}
+.img-width{
+    width: 15%;
+}
+.footer-box{
+    margin: 30px;
+}
+h5{
+    font-weight: 800;
+}
+.bg-black{
+    color: white;
+}
+.more-padding{
+    padding: 50px;
 }
